@@ -21,9 +21,11 @@ In this project we explore the popularity of the names given to people from both
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c00ac9bd-be85-47ad-bce1-d15148c2cf07" alt="image"/>
-  
+</p>
+<p align="center">
   ...
-  
+</p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/d7b8132d-b758-455b-bf67-aa75f4103215" alt="image"/>
 </p>
 
