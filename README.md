@@ -1,9 +1,11 @@
 # US_Baby_Names_Analysis-SQL-
 A quick analysis of most popular names in the United States.
 
-The data set:
+The data model:
 
 ![Screenshot 2025-06-25 161818](https://github.com/user-attachments/assets/24f3b5b5-4822-4574-b47f-2772a1dac6eb)
+
+- The data set can be found on [Maven Showcase](https://maven-datasets.s3.amazonaws.com/US+Baby+Names/US+Baby+Names+MySQL.zip). <br>
 
 
 In this project we explore the popularity of the names given to people from both genders in the period of 1980-2009 across the different regions of the United States. Here is a summary of the insights we found:
